@@ -12,13 +12,11 @@
   <packaging>hpi</packaging>
   <description>Meta-plugin for php developement, based on http://jenkins-php.org</description>
 
-<!--
   <scm>
     <connection>scm:git:git@github.com:jenkinsci/php-plugin.git</connection>
     <developerConnection>scm:git:git@github.com:jenkinsci/php-plugin.git</developerConnection>
     <url>https://github.com/jenkinsci/php-plugin</url>
   </scm>
--->
   <repositories>
     <repository>
       <id>repo.jenkins-ci.org</id>
